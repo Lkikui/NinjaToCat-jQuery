@@ -1,0 +1,8 @@
+#main {
+  margin: 0 auto;
+}
+#main img {
+  margin: 5px;
+  padding: 0;
+  display: block;
+}
